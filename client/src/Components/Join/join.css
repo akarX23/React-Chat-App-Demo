@@ -1,0 +1,12 @@
+.join-container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.join-info {
+  width: 150px;
+  font-size: 15px;
+  height: auto;
+}
