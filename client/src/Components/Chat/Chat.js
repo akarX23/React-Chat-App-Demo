@@ -6,7 +6,7 @@ import InfoBar from "../InfoBar/InfoBar";
 import Input from "../Input/Input";
 import Messages from "../Messages/Messages";
 
-const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "https://chat-app-27068.herokuapp.com";
 
 let socket;
 
